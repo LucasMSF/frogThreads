@@ -1,9 +1,5 @@
 package br.lucasdev;
 
-
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) throws InterruptedException {
         int totalJumps = 100;
